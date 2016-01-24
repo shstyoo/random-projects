@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400541800 source:c:\users\stevelaptop\dropbox\personal\programming\test\dijkstraalgorithm\main.cpp
+	<iostream>
+	<stack>
+	<sstream>
+

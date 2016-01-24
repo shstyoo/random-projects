@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1402924635 source:c:\users\steve\dropbox\personal\programming\test\classcollection\main.cpp
+	<iostream>
+	"_findMaxInt.h"
+
+1402923923 c:\users\steve\dropbox\personal\programming\test\classcollection\include\testfunc.h
+	<iostream>
+
+1402923691 source:c:\users\steve\dropbox\personal\programming\test\classcollection\src\testfunc.cpp
+	"testFunc.h"
+
+1402924709 c:\users\steve\dropbox\personal\programming\test\classcollection\include\_findmaxint.h
+	<iostream>
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1411017011 source:c:\users\steve\dropbox\personal\programming\_ongoing_backtobasics\backtobasics\main.cpp
+	<iostream>
+	"mainHeader.h"
+
+1411005683 source:c:\users\steve\dropbox\personal\programming\_ongoing_backtobasics\backtobasics\tictactoe.cpp
+	<iostream>
+	<cmath>
+	"mainHeader.h"
+
+1411016074 c:\users\steve\dropbox\personal\programming\_ongoing_backtobasics\backtobasics\mainheader.h
+	<string>
+
+1411007144 source:c:\users\steve\dropbox\personal\programming\_ongoing_backtobasics\backtobasics\makethingsupper.cpp
+	<iostream>
+	<string>
+	<locale>
+	"mainHeader.h"
+
+1411016981 source:c:\users\steve\dropbox\personal\programming\_ongoing_backtobasics\backtobasics\rockpaperscissors.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<stdlib.h>
+	<time.h>
+	"mainHeader.h"
+
