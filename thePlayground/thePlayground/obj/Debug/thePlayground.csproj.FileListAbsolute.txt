@@ -1,0 +1,6 @@
+c:\users\steve\documents\visual studio 2013\Projects\thePlayground\thePlayground\bin\Debug\thePlayground.exe.config
+C:\Users\steve\Documents\Visual Studio 2013\Projects\thePlayground\thePlayground\bin\Debug\thePlayground.exe
+C:\Users\steve\Documents\Visual Studio 2013\Projects\thePlayground\thePlayground\bin\Debug\thePlayground.pdb
+C:\Users\steve\Documents\Visual Studio 2013\Projects\thePlayground\thePlayground\obj\Debug\thePlayground.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\Visual Studio 2013\Projects\thePlayground\thePlayground\obj\Debug\thePlayground.exe
+C:\Users\steve\Documents\Visual Studio 2013\Projects\thePlayground\thePlayground\obj\Debug\thePlayground.pdb

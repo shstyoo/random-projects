@@ -1,0 +1,73 @@
+﻿Created by Seunghyun Yoo
+11.1.2014
+
+--------------------------------------THOUHGTS-------------------------------------- 
+11.1.2014
+- Think about creating a separate class called Message specifically for your code instead of using global.message...
+11.2.2014
+- Decided against creating separate class for Message (shits too hard to implement)
+11.5.2014
+- Created the backbone for a class that can read in a text file, and display a menu according to what I need (see yellow notebook)
+- Might require a little bit of time to implement (Go back to the hash table to see the File I/O that you need)
+11.12.2014
+- Menu structure is removed, (too difficult to implement for too little of the benefits)
+- IMPORTANT GIT CHANGES!!!!
+	- Added Three Branches 1. MASTER 2. consoleVer 3. windowsForm
+	- MASTER: Last modified 11.12.2014
+	- consoleVer: Branch of the MASTER that has a console only version of thePlayground
+	- windowsForm: Branch of the MASTER that contains a windows form for database/other interactions
+- Think about touching up the userAcct.cs class to better fit the console splash for the login
+11.18.2014
+- Basic stuff. Simple programming here and there (basic touchups)
+- Programming starting on the main menu (starting to add on additional programs for user use)
+----------------------------------ABOUT & CHANGELOG---------------------------------
+	This program is designed for Steve (the creator) to have fun and mess around in 
+visual studio as well as C#. The main purpose of this program is to test knowledge
+of implementation of Databases (SQL), iteration, polymorphism, inheritance,
+recursion, function overloading, encryption and algorithm searching/sorting 
+(binary trees, hash tables, quickSort, mergeSort and bubbleSort[kappa]).
+
+	Otherwise this program serves to help a user have a centralized database of 
+everything they could think of. Starting with the ability to create and maintain 
+an account, this program will communicate with a local database to access user
+information.
+
+User Information (as of now) contains:
+-Username
+-Password
+-Birthday
+-Secret Question
+-Secret Answer
+User Information (will) contain:
+-Stock Portfolio Information
+	-Contains and tracks stock tickers (GOOG, APPL, NYSE...etc)
+-User Sensitive Information
+	-Bank account (balance, info, etc...)
+-General Notes
+	-Will be able to save, edit, and view notes that a user might want to leave
+------------------------------------------------------------------------------------
+CHANGELOG v.a.001
+
+11.1.2014
+Created C# Visual Studio Solution
+- Added Launch Menu to program
+- Added Error/Notification/Info message display system
+- Created skeleton for the User Account
+11.2.2014
+Basic Maintenance
+- Created a menuStructure class to control the creation/display of menus
+	- Basic gist: Code that allows all other menus to follow a similar visual style so the code doesn't get ugly (output stays same)
+	- If confused look towards menuStructure to see documentation
+11.12.2014
+New Git Branching
+IMPORTANT!!!!!
+- From here on out, each changelog will contain an identifier (M, C, or W) for our respective, MASTER, ConsoleVer, WindowsForm branches on GIT
+- Instead of CHANGELOG v.a.001, we will have v.a.c.001, v.a.m.001, v.a.w.001 for our respective versions.
+------------------------------------------------------------------------------------
+CHANGELOG v.a.c.001
+11.12.2014
+Basic Maintenance
+- Created loginMenu() and loginLoop() for the login splash screen
+	- Still need to implement reading in and outputing file (for user database)
+
+

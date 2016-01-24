@@ -1,0 +1,12 @@
+steve,hello,0
+tim,special,1
+billy,whitebread,1
+kevin,dota,1
+eric,hearthstone,1
+daniel,wat,1
+david,superman,1
+
+davai,sup1,1
+
+test,test1,1
+

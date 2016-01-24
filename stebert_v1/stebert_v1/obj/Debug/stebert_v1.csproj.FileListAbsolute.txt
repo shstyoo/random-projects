@@ -1,0 +1,6 @@
+c:\users\steve\documents\visual studio 2013\Projects\stebert_v1\stebert_v1\bin\Debug\stebert_v1.exe.config
+c:\Users\steve\Documents\Visual Studio 2013\Projects\stebert_v1\stebert_v1\bin\Debug\stebert_v1.exe
+c:\Users\steve\Documents\Visual Studio 2013\Projects\stebert_v1\stebert_v1\bin\Debug\stebert_v1.pdb
+c:\Users\steve\Documents\Visual Studio 2013\Projects\stebert_v1\stebert_v1\obj\Debug\stebert_v1.csprojResolveAssemblyReference.cache
+c:\Users\steve\Documents\Visual Studio 2013\Projects\stebert_v1\stebert_v1\obj\Debug\stebert_v1.exe
+c:\Users\steve\Documents\Visual Studio 2013\Projects\stebert_v1\stebert_v1\obj\Debug\stebert_v1.pdb

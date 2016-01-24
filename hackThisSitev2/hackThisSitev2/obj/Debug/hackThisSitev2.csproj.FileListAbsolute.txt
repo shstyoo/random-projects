@@ -1,0 +1,6 @@
+c:\users\steve\documents\visual studio 2013\Projects\hackThisSitev2\hackThisSitev2\bin\Debug\hackThisSitev2.exe.config
+C:\Users\steve\Documents\Visual Studio 2013\Projects\hackThisSitev2\hackThisSitev2\bin\Debug\hackThisSitev2.exe
+C:\Users\steve\Documents\Visual Studio 2013\Projects\hackThisSitev2\hackThisSitev2\bin\Debug\hackThisSitev2.pdb
+C:\Users\steve\Documents\Visual Studio 2013\Projects\hackThisSitev2\hackThisSitev2\obj\Debug\hackThisSitev2.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\Visual Studio 2013\Projects\hackThisSitev2\hackThisSitev2\obj\Debug\hackThisSitev2.exe
+C:\Users\steve\Documents\Visual Studio 2013\Projects\hackThisSitev2\hackThisSitev2\obj\Debug\hackThisSitev2.pdb

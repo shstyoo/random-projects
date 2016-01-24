@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph ZoomLevel="-1" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="AddEntry" Bounds="60.2483595853128,-620.095803868058,233.317044246211,181.660167448099" Group="Expanded" Label="addEntry" LayoutSettings="List" UseManualLocation="True" />
+    <Node Id="CreateTemporaryStorageForEditedChanges" Category="Comment" Bounds="-93.0919903874881,-296.565974990732,241.496666666667,36.5533333333333" Label="Create temporary storage for edited changes, search queries, and display entries" UseManualLocation="True" />
+    <Node Id="DeleteEntry" Bounds="-168.126153192555,-613.399035627289,75.0699999999999,23.2766666666666" Label="deleteEntry" UseManualLocation="True" />
+    <Node Id="DisplayEntry" Bounds="-172.422521651621,-389.842841657399,78.7766666666667,23.2766666666666" Label="displayEntry" UseManualLocation="True" />
+    <Node Id="EditEntry" Bounds="-178.403618638885,-560.122268960621,113.470084668335,105.826030395671" Group="Expanded" Label="editEntry" LayoutSettings="List" UseManualLocation="True" />
+    <Node Id="GlobalVar" Bounds="18.584073683231,-972.709502597152,65.1590204484464,23.2776728386725" Label="globalVar" />
+    <Node Id="Int:EntryID" Bounds="66.2741476648245,-594.091205556509,76.6429105533073,23.276666666849" Label="int: EntryID" />
+    <Node Id="Int:EntryID1" Bounds="-64.6209793609579,53.0942250104067,115.952166666667,23.2770113333333" Label="string: Entry Author" />
+    <Node Id="Int:EntryID2" Bounds="-64.6209793609579,2.54089167593413,76.6433333333333,23.2766666666666" Label="int: EntryID" />
+    <Node Id="Int:EntryID3" Bounds="-172.403618638885,-534.122168960622,76.5486293179525,23.2766664879557" Label="int: EntryID" />
+    <Node Id="MainMenu" Bounds="-258.403618638885,-1012.66884606133,654.463210677608,1230.87123500754" Group="Expanded" Label="Program" LayoutSettings="ForceDirected" UseManualLocation="True" />
+    <Node Id="NotepadApplication" Bounds="-238.403618638885,-839.954018180192,571.969022470408,1038.15704566674" Group="Expanded" Label="notepadApplication" />
+    <Node Id="NotepadCommands" Bounds="-218.403618638885,-693.399235627289,531.969022470408,366.833260636557" Group="Expanded" Label="notepadCommands" />
+    <Node Id="NotepadDatabase" Bounds="-90.6209793609579,-63.4591083240659,276.762828666667,241.661378667806" Group="Expanded" Label="notepadDatabase" UseManualLocation="True" />
+    <Node Id="NotepadDate" Bounds="-70.6209793609579,-23.4591083240659,236.762828666667,181.661378667806" Group="Expanded" Label="Searchable Terms" LayoutSettings="List" UseManualLocation="True" />
+    <Node Id="NotepadSaveChanges" Bounds="-43.9634115274875,-176.735974990732,144.11,83.2768666666665" Group="Expanded" Label="notepadSaveChanges" UseManualLocation="True" />
+    <Node Id="NotepadTempData" Bounds="-7.36591043306958,-230.012641657399,109.726666666667,23.2766666666666" Label="notepadTempData" />
+    <Node Id="NotepadVar" Bounds="9.70843962493066,-746.675902293955,75.81,23.2766666666666" Label="notepadVar" />
+    <Node Id="NothingInHereYet" Category="Comment" Bounds="262.70046411566,-927.314862763014,113.44,23.2766666666666" Label="Nothing in here yet" />
+    <Node Id="Open_wall" Bounds="143.757030732209,-940.154155715744,88.9433333333334,44" Group="Expanded" Label="open_wall" />
+    <Node Id="ParseAndExecuteGlobal" Bounds="-19.8223781015464,-919.43182908568,133.579308844116,23.2776730298044" Label="parseAndExecuteGlobal" />
+    <Node Id="ParseAndExecuteNotepad" Bounds="-24.2621802572933,-799.953575323002,144.084081711231,23.277673029047" Label="parseAndExecuteNotepad" />
+    <Node Id="ParseFile" Bounds="-198.403618638885,-653.399135627289,153.470084668335,306.833060636557" Group="Expanded" Label="parseFile" UseManualLocation="True" />
+    <Node Id="String:Date" Category="Category2" Bounds="66.2742965705015,-568.814777333853,75.9296000466407,23.276666666849" Label="string: date" />
+    <Node Id="String:Date1" Bounds="-64.6209793609579,27.8175583426007,75.9361706669464,23.276666667806" Label="string: date" />
+    <Node Id="String:EntryAuthor" Category="Category2" Bounds="66.2483595853128,-518.26574781337,112.511762713307,23.276666666849" Label="string: EntryAuthor" />
+    <Node Id="String:EntryAuthor1" Bounds="-64.6209793609579,78.37123634374,115.952166666667,23.2770113333333" Label="string: Entry Author" />
+    <Node Id="String:EntryDate" Category="Category2" Bounds="66.2483605276238,-492.989075450089,102.735408899974,23.2766666668489" Label="string: EntryDate" />
+    <Node Id="String:EntryName" Category="Category2" Bounds="66.2483648649871,-467.712403086808,108.175234819974,23.276666666849" Label="string: EntryName" />
+    <Node Id="String:EntryName1" Bounds="-64.6209793609579,128.925259010407,108.180388,23.2770113333333" Label="string: EntryName" />
+    <Node Id="String:EntryNotes" Category="Category2" Bounds="66.2483631261262,-543.542420176651,104.868673966641,23.276666666849" Label="string: EntryAnno" />
+    <Node Id="String:EntryNotes1" Bounds="-64.6209793609579,103.648247677073,104.874382666667,23.2770113333333" Label="string: EntryAnno" />
+    <Node Id="String:EntryValue" Category="Category2" Bounds="180.76012517155,-594.095703868058,106.805278659974,23.276666666849" Label="string: EntryValue" />
+    <Node Id="String:EntryValue1" Bounds="53.3311873057091,2.54089167593413,106.810662,23.2770113333333" Label="string: EntryValue" />
+    <Node Id="String:NewValue" Bounds="-172.400200637217,-508.846595319509,101.466666666667,23.2766666666666" Label="string: newValue" />
+    <Node Id="String:OldValue" Bounds="-172.400000594492,-483.573005231618,95.9466666666667,23.2766666666666" Label="string: oldValue" />
+    <Node Id="VerifyChanges" Bounds="-15.9867448608208,-136.735874990732,88.1566666666667,23.2766666666666" Label="verifyChanges" />
+  </Nodes>
+  <Links>
+    <Link Source="AddEntry" Target="Int:EntryID" Category="Contains" />
+    <Link Source="AddEntry" Target="String:Date" Category="Contains" />
+    <Link Source="AddEntry" Target="String:EntryAuthor" Category="Contains" />
+    <Link Source="AddEntry" Target="String:EntryDate" Category="Contains" />
+    <Link Source="AddEntry" Target="String:EntryName" Category="Contains" />
+    <Link Source="AddEntry" Target="String:EntryNotes" Category="Contains" />
+    <Link Source="AddEntry" Target="String:EntryValue" Category="Contains" />
+    <Link Source="CreateTemporaryStorageForEditedChanges" Target="NotepadTempData" Bounds="33.7087204706027,-260.012684514589,7.10534957793079,21.4563789609585" />
+    <Link Source="EditEntry" Target="Int:EntryID3" Category="Contains" />
+    <Link Source="EditEntry" Target="String:NewValue" Category="Contains" />
+    <Link Source="EditEntry" Target="String:OldValue" Category="Contains" />
+    <Link Source="MainMenu" Target="GlobalVar" Category="Contains" />
+    <Link Source="MainMenu" Target="NotepadApplication" Category="Contains" />
+    <Link Source="MainMenu" Target="NothingInHereYet" Category="Contains" />
+    <Link Source="MainMenu" Target="Open_wall" Category="Contains" />
+    <Link Source="MainMenu" Target="ParseAndExecuteGlobal" Category="Contains" />
+    <Link Source="NotepadApplication" Target="CreateTemporaryStorageForEditedChanges" Category="Contains" />
+    <Link Source="NotepadApplication" Target="NotepadCommands" Category="Contains" />
+    <Link Source="NotepadApplication" Target="NotepadDatabase" Category="Contains" />
+    <Link Source="NotepadApplication" Target="NotepadSaveChanges" Category="Contains" />
+    <Link Source="NotepadApplication" Target="NotepadTempData" Category="Contains" />
+    <Link Source="NotepadApplication" Target="NotepadVar" Category="Contains" />
+    <Link Source="NotepadApplication" Target="ParseAndExecuteNotepad" Category="Contains" />
+    <Link Source="NotepadCommands" Target="AddEntry" Category="Contains" />
+    <Link Source="NotepadCommands" Target="NotepadTempData" Bounds="97.1766967773438,-326.565979003906,61.3621520996094,94.0968475341797" />
+    <Link Source="NotepadCommands" Target="ParseFile" Category="Contains" />
+    <Link Source="NotepadDatabase" Target="NotepadDate" Category="Contains" />
+    <Link Source="NotepadDatabase" Target="NotepadTempData" Bounds="52.7494583129883,-202.438507080078,121.707328796387,138.979400634766" />
+    <Link Source="NotepadDate" Target="Int:EntryID1" Category="Contains" />
+    <Link Source="NotepadDate" Target="Int:EntryID2" Category="Contains" />
+    <Link Source="NotepadDate" Target="String:Date1" Category="Contains" />
+    <Link Source="NotepadDate" Target="String:EntryAuthor1" Category="Contains" />
+    <Link Source="NotepadDate" Target="String:EntryName1" Category="Contains" />
+    <Link Source="NotepadDate" Target="String:EntryNotes1" Category="Contains" />
+    <Link Source="NotepadDate" Target="String:EntryValue1" Category="Contains" />
+    <Link Source="NotepadSaveChanges" Target="NotepadDatabase" Bounds="32.3467123198014,-93.4591083240658,2.15080176731247,21.0466297140838" />
+    <Link Source="NotepadSaveChanges" Target="VerifyChanges" Category="Contains" />
+    <Link Source="NotepadTempData" Target="NotepadDatabase" Bounds="57.3711204528809,-206.735916137695,125.564456939697,134.839630126953" />
+    <Link Source="NotepadTempData" Target="NotepadSaveChanges" Bounds="39.8370552712706,-206.735917847922,4.94830598567224,21.2347807943106" />
+    <Link Source="NotepadVar" Target="NotepadCommands" Bounds="47.608719500066,-723.399478484478,0.00303701264583367,21.0002429513039" />
+    <Link Source="NothingInHereYet" Target="Open_wall" Bounds="241.617955889674,-917.125453961037,21.0016361490497,0.38807811498225" />
+    <Link Source="ParseAndExecuteGlobal" Target="GlobalVar" Bounds="47.802966272527,-940.418951338721,1.65594405538116,21.027778116059" />
+    <Link Source="ParseAndExecuteGlobal" Target="NotepadApplication" Bounds="46.9001772455991,-896.113743050048,0.0558070557241237,47.1597311714096" />
+    <Link Source="ParseAndExecuteGlobal" Target="Open_wall" Bounds="113.67605870539,-914.193258934909,21.0242120648114,1.5420721147359" />
+    <Link Source="ParseAndExecuteNotepad" Target="NotepadVar" Bounds="47.6779069714209,-776.676245151145,0.065597662952257,21.0001439077845" />
+    <Link Source="ParseFile" Target="DeleteEntry" Category="Contains" />
+    <Link Source="ParseFile" Target="DisplayEntry" Category="Contains" />
+    <Link Source="ParseFile" Target="EditEntry" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="Category2" Label="Category 2" Background="#FF339933" IsTag="True" />
+    <Category Id="Comment" Label="Comment" Description="Represents a user defined comment on the diagram" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Comments" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+  </Categories>
+  <Properties>
+    <Property Id="Background" Label="Background" Description="The background color" DataType="System.Windows.Media.Brush" />
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.GraphModel.GraphGroupStyle" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="IsTag" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="LayoutSettings" DataType="Microsoft.VisualStudio.Diagrams.View.GroupLayoutStyle" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="UseManualLocation" DataType="System.Boolean" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="ZoomLevel" DataType="System.String" />
+  </Properties>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Comment" ValueLabel="Has comment">
+      <Condition Expression="HasCategory('Comment')" />
+      <Setter Property="Background" Value="#FFFFFACD" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+      <Setter Property="StrokeThickness" Value="1" />
+      <Setter Property="NodeRadius" Value="2" />
+      <Setter Property="MaxWidth" Value="250" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Category 2" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Category2')" />
+      <Setter Property="Background" Value="#FF339933" />
+    </Style>
+  </Styles>
+</DirectedGraph>
