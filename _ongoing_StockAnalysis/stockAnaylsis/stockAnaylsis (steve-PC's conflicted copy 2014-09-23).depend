@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1411370256 source:c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\main.cpp
+	<iostream>
+	<string>
+	"mainHeader.h"
+
+1410917388 c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\mainheader.h
+	<string>
+	<stack>
+	"userClass.h"
+
+1411454090 source:c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\displaymenu.cpp
+	<iostream>
+	<string>
+	<stack>
+	<iomanip>
+	<cstdlib>
+	"mainHeader.h"
+
+1410917388 source:c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\clearscreen.cpp
+	<windows.h>
+	"mainHeader.h"
+
+1410767741 source:c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\_displaymenu.cpp
+	<iostream>
+	<string>
+	"mainHeader.h"
+
+1410767741 source:c:\users\stevelaptop\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\_displaymenu.cpp
+	<iostream>
+	<string>
+	"mainHeader.h"
+
+1410917388 c:\users\stevelaptop\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\mainheader.h
+	<string>
+	<stack>
+	"userClass.h"
+
+1410915786 source:c:\users\stevelaptop\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\clearscreen.cpp
+	<windows.h>
+	"mainHeader.h"
+
+1410910250 source:c:\users\stevelaptop\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\displaymenu.cpp
+	<iostream>
+	<string>
+	<stack>
+	<iomanip>
+	<cstdlib>
+	"mainHeader.h"
+
+1410915956 source:c:\users\stevelaptop\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\main.cpp
+	<iostream>
+	<string>
+	"mainHeader.h"
+
+1410909400 source:c:\users\stevelaptop\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\usraccctrl.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	"mainHeader.h"
+
+1410909400 source:c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\usraccctrl.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	"mainHeader.h"
+
+1410914873 source:c:\users\stevelaptop\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\userclass.cpp
+	"userClass.h"
+
+1410917388 c:\users\stevelaptop\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\userclass.h
+	<string>
+	"mainHeader.h"
+
+1410915259 source:c:\users\stevelaptop\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\checkfile.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"mainHeader.h"
+
+1410917388 source:c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\checkfile.cpp
+	<string>
+	<fstream>
+	<iostream>
+	"mainHeader.h"
+
+1410979515 c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\userclass.h
+	<string>
+	"mainHeader.h"
+
+1411440250 source:c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\userclass.cpp
+	<fstream>
+	"mainHeader.h"
+	"userClass.h"
+
+1410971479 source:c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\shell.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<assert.h>
+	"sqlite3.h"
+	<ctype.h>
+	<stdarg.h>
+	<signal.h>
+	<pwd.h>
+	<unistd.h>
+	<sys/types.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<editline/readline.h>
+	<io.h>
+	<fcntl.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<windows.h>
+
+1410971480 c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\sqlite3.h
+	<stdarg.h>
+
+1410971480 source:c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\stockanaylsis\sqlite3.c
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<tcl.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+

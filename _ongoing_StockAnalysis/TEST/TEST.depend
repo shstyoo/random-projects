@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1411007915 source:c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\test\main.cpp
+	<stdio.h>
+	<sqlite3.h>
+	<string>
+	<iostream>
+
+1410971480 c:\users\steve\dropbox\personal\programming\_ongoing_stockanalysis\test\sqlite3.h
+	<stdarg.h>
+
