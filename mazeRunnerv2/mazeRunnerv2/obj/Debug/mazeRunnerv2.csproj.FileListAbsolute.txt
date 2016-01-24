@@ -1,0 +1,6 @@
+c:\users\steve\documents\visual studio 2013\Projects\mazeRunnerv2\mazeRunnerv2\bin\Debug\mazeRunnerv2.exe.config
+C:\Users\steve\Documents\Visual Studio 2013\Projects\mazeRunnerv2\mazeRunnerv2\obj\Debug\mazeRunnerv2.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\Visual Studio 2013\Projects\mazeRunnerv2\mazeRunnerv2\bin\Debug\mazeRunnerv2.exe
+C:\Users\steve\Documents\Visual Studio 2013\Projects\mazeRunnerv2\mazeRunnerv2\bin\Debug\mazeRunnerv2.pdb
+C:\Users\steve\Documents\Visual Studio 2013\Projects\mazeRunnerv2\mazeRunnerv2\obj\Debug\mazeRunnerv2.exe
+C:\Users\steve\Documents\Visual Studio 2013\Projects\mazeRunnerv2\mazeRunnerv2\obj\Debug\mazeRunnerv2.pdb

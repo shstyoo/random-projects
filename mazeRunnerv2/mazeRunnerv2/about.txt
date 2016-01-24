@@ -1,0 +1,13 @@
+﻿This program is more or less complete.
+It will be able to find a solution to any horizontal or vertical 2D array maze.
+
+Potential Additions to Program:
+1. Make it so that you can upload an array (read in CSV or text files)
+2. Allow the user to choose whether or not to have a solution found horizontally or vertically
+	2.a. Also allow user to create a specific coordinate (x,y) that is the endpoint of the maze
+3. Print the maze output in a more "pretty" way
+	3.a. Create printable graphs that takes a 2D array and prints lines/symbols based on their value
+		3.a.a. For example, if you print the maze solution, you will see all the walls, paths, and 
+		the solution
+4. Rework the menu system (it's absolute shit) and its way to confusing (code wise!)
+5. Add in functionality for Users (SQL database in C# and Visual Studio... Look that shit up)

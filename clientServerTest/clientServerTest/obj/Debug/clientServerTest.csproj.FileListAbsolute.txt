@@ -1,0 +1,1 @@
+c:\users\steve\documents\visual studio 2013\Projects\clientServerTest\clientServerTest\bin\Debug\clientServerTest.exe.config

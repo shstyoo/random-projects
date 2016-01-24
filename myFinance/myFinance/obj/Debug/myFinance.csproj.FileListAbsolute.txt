@@ -1,0 +1,8 @@
+c:\users\steve\documents\visual studio 2013\Projects\myFinance\myFinance\bin\Debug\myFinance.exe.config
+C:\Users\steve\Documents\Visual Studio 2013\Projects\myFinance\myFinance\bin\Debug\myFinance.exe
+C:\Users\steve\Documents\Visual Studio 2013\Projects\myFinance\myFinance\bin\Debug\myFinance.pdb
+C:\Users\steve\Documents\Visual Studio 2013\Projects\myFinance\myFinance\obj\Debug\myFinance.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\Visual Studio 2013\Projects\myFinance\myFinance\obj\Debug\myFinance.exe
+C:\Users\steve\Documents\Visual Studio 2013\Projects\myFinance\myFinance\obj\Debug\myFinance.pdb
+C:\Users\steve\Documents\Visual Studio 2013\Projects\myFinance\myFinance\bin\Debug\Database1.mdf
+C:\Users\steve\Documents\Visual Studio 2013\Projects\myFinance\myFinance\bin\Debug\Database1_log.ldf

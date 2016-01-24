@@ -1,0 +1,15 @@
+﻿// Created by Seunghyun Yoo
+// 10.30.2014
+
+This code is designed by Seunghyun (Steve) Yoo because
+Billy made me.
+
+Shit was fun to make, and all it does is take a text file, and 
+give you how many times a word appeared in the file.
+Right now all it does is take the top 20, while at the same time
+ignoring words that you don't want included (Such as the, what, 
+who, where, why, etc...).
+
+I can't really think of anything to implement at this time. Maybe
+I'll add more stuff in later.
+
