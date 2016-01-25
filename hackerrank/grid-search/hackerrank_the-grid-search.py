@@ -1,6 +1,13 @@
 import sys
 
-# Need to make sure that at the EOF on list G, we don't go out of bounds for a runtime error
+# The goal of this problem is to figure out if a smaller subset of numbers (P) is contained within
+# the larger subset of numbers (G).
+# You need to take into account the time complexity of issue (large arrays can take an insane)
+# amount of time to complete. The algorithm in comments is my original algorithm that solves all
+# test cases, but takes an inordinate amount of time to solve certain cases. The non-commented
+# algorithm is a cleaner version that doesn't fail the time complexity of this issue.
+
+# https://www.hackerrank.com/challenges/the-grid-search
 
 t = int(input().strip())
 for a0 in range(t):

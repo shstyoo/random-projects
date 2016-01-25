@@ -1,3 +1,7 @@
+# Simple challenge that requires you to change the time (from its given 12HR format into a 24HR format)
+
+# https://www.hackerrank.com/challenges/time-conversion
+
 import sys
 
 time = input().strip()

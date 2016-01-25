@@ -1,3 +1,8 @@
+# Simple challenge. Given the number of students that have arrived on time,
+# calculate whether or not the professor has decided to cancel the class.
+
+# https://www.hackerrank.com/challenges/angry-professor
+
 import sys
 
 t = int(input().strip())
