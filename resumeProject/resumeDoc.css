@@ -1,34 +1,38 @@
+/* Title Block */
 .Title-Block {
     font-family: 'Lato', sans-serif;
 }
 
 .Title-Text {
     list-style-type: none;
+    border: 1px solid black;
+    width: 250px;
 }
 
 #Title-CV {
     font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
-    font-size: 30px;
+    font-size: 25px;
     border-left: 4px solid blue;
     padding-left: 20px;
+    padding-bottom: 0px;
     margin-bottom: 0px;
 }
 
 #Title-Name {
-    font-size: 20px;
+    font-size: 15px;
     padding-left: 20px;
     padding-bottom: 10px;
-    border-left: 4px solid black;
-    margin-top: -41px;
+    margin-top: -35px;
     margin-bottom: 0px;
+    border-left: 4px solid black;
 }
 
 #Title-Email, #Title-Phone, #Title-Address {
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
-    font-size: 10px;
+    font-size: 8px;
 }
 
 #Title-Email {
@@ -47,4 +51,49 @@
     border-left: 4px solid green;
     margin-top: 0px;
     margin-bottom: 0px;
+}
+
+/* Info Block */
+p {
+    text-indent: 40px;
+}
+
+.dates {
+    color: #818181;
+}
+
+.indent {
+    text-indent: 80px;
+}
+
+.Info-Titles {
+    position: absolute;
+    list-style-type: none;
+    top: 0px;
+    left: 300px;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+#Professional-Experience {
+    border-left: 4px solid blue;
+}
+
+#Personal-Experience {
+    border-left: 4px solid red;
+}
+
+#Languages {
+    border-left: 4px solid green;
+}
+
+#About-Me {
+    border-left: 4px solid black;
+}
+/* Info Text */
+.Info-Text {
+    font-family: 'Droid Sans', sans-serif;
+    list-style-type: none;
+    position: absolute;
+    top: 0px;
+    left: 500px;
 }
