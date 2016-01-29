@@ -1,0 +1,50 @@
+.Title-Block {
+    font-family: 'Lato', sans-serif;
+}
+
+.Title-Text {
+    list-style-type: none;
+}
+
+#Title-CV {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    border-left: 4px solid blue;
+    padding-left: 20px;
+    margin-bottom: 0px;
+}
+
+#Title-Name {
+    font-size: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border-left: 4px solid black;
+    margin-top: -41px;
+    margin-bottom: 0px;
+}
+
+#Title-Email, #Title-Phone, #Title-Address {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    font-size: 10px;
+}
+
+#Title-Email {
+    border-left: 4px solid red;
+    margin-top: -20px;
+    margin-bottom: 0px;
+}
+
+#Title-Phone {
+    border-left: 4px solid yellow;
+    margin-top: -5px;
+    margin-bottom: 0px;
+}
+
+#Title-Address {
+    border-left: 4px solid green;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
