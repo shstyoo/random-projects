@@ -4,8 +4,10 @@
 }
 
 .Title-Text {
+    position: absolute;
+    top: 200px;
+    left: 0px;
     list-style-type: none;
-    border: 1px solid black;
     width: 250px;
 }
 
@@ -13,49 +15,49 @@
     font-family: 'Ubuntu', sans-serif;
     font-weight: bold;
     font-size: 25px;
-    border-left: 4px solid blue;
+    border-left: 4px solid #318989;
     padding-left: 20px;
     padding-bottom: 0px;
     margin-bottom: 0px;
 }
 
 #Title-Name {
-    font-size: 15px;
+    font-size: 11px;
     padding-left: 20px;
     padding-bottom: 10px;
     margin-top: -35px;
     margin-bottom: 0px;
-    border-left: 4px solid black;
+    border-left: 4px solid #9B344E;
 }
 
 #Title-Email, #Title-Phone, #Title-Address {
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
-    font-size: 8px;
+    font-size: 7px;
 }
 
 #Title-Email {
-    border-left: 4px solid red;
+    border-left: 4px solid #E4D152;
     margin-top: -20px;
     margin-bottom: 0px;
 }
 
 #Title-Phone {
-    border-left: 4px solid yellow;
+    border-left: 4px solid #FF7F00;
     margin-top: -5px;
     margin-bottom: 0px;
 }
 
 #Title-Address {
-    border-left: 4px solid green;
+    border-left: 4px solid #500D87;
     margin-top: 0px;
     margin-bottom: 0px;
 }
 
 /* Info Block */
 p {
-    text-indent: 40px;
+    padding-left: 40px;
 }
 
 .dates {
@@ -63,37 +65,50 @@ p {
 }
 
 .indent {
-    text-indent: 80px;
+    padding-left: 80px;
 }
 
 .Info-Titles {
     position: absolute;
     list-style-type: none;
-    top: 0px;
-    left: 300px;
+    top: 12px;
+    left: 220px;
     font-family: 'Droid Sans', sans-serif;
+    font-size: 11px;
 }
 
 #Professional-Experience {
-    border-left: 4px solid blue;
+    text-align: top;
+    position: relative;
+    border-left: 4px solid #318989;
+    top: -20px;
+    padding-bottom: 485px;
+    padding-left: 5px;
 }
 
 #Personal-Experience {
-    border-left: 4px solid red;
+    position: relative;
+    border-left: 4px solid #9B344E;
+    top: -43px;
+    padding-left: 5px;
+    padding-bottom: 250px;
 }
 
 #Languages {
-    border-left: 4px solid green;
+    position: relative;
+    border-left: 4px solid #E4D152;
+    top: -65px;
+    padding-left: 5px;
+    padding-bottom: 40px;
 }
 
-#About-Me {
-    border-left: 4px solid black;
-}
 /* Info Text */
 .Info-Text {
     font-family: 'Droid Sans', sans-serif;
     list-style-type: none;
     position: absolute;
     top: 0px;
-    left: 500px;
+    left: 375px;
+    font-size: 8px;
+    width: 500px;
 }
