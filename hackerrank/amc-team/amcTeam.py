@@ -16,4 +16,5 @@ for topic_i in range(n):
     topic_t = str(input().strip())
     topic.append(topic_t)
     # Algorithm starts here
-    
+    for(i=0; i<n; i++):
+        print(topic[i][0])
