@@ -18,4 +18,6 @@ for topic_i in range(n):
     # Algorithm starts here
 for i in range(n):
     for j in range(m):
-        if(topic[i][m])
+        for k in range(n+1):
+            if(topic[i][m] + topic[i][k] > 1):
+                
