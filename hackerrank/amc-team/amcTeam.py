@@ -20,4 +20,4 @@ for i in range(n):
     for j in range(m):
         for k in range(n+1):
             if(topic[i][m] + topic[i][k] > 1):
-                
+                # Add in the requisite for two people, or one person knowing a topic in this combo
