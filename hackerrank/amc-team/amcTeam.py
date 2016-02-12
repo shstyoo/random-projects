@@ -22,3 +22,4 @@ for i in range(n):
             if(topic[i][m] + topic[i][k] > 1):
                 # Add in the requisite for two people, or one person knowing a topic in this combo
                 # Some good shit
+                # Some more good shit
