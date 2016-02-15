@@ -23,3 +23,4 @@ for i in range(n):
                 # Add in the requisite for two people, or one person knowing a topic in this combo
                 # No mo good shit
                 # one of these days i'll actually finish this shit
+                # FUUUUUUUUCK
