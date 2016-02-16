@@ -16,8 +16,12 @@ for topic_i in range(n):
     topic_t = str(input().strip())
     topic.append(topic_t)
     # Algorithm starts here
-for i in range(n):
-    for j in range(m):
-        for k in range(n+1):
-            if(topic[i][m] + topic[i][k] > 1):
-                # Add in the requisite for two people, or one person knowing a topic in this combo
+maxTeamTopic = 0
+maxTopicCount = 0
+for j in range(m):
+    for i in range(n):
+        for k in range(m-1):
+            print(topic[i][j] + " + " + topic[i][k+1])
+            print("#####")
+            print(i + " - " + j + " - " + k)
+            print("#####")
