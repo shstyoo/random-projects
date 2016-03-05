@@ -1,0 +1,2 @@
+Just some stuff
+This is where most of the freeCodeCamp projects will be located.
